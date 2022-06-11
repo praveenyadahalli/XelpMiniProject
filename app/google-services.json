@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376746806651",
+    "project_id": "xelp-mini-project",
+    "storage_bucket": "xelp-mini-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376746806651:android:c6dbde6d3eb654125801de",
+        "android_client_info": {
+          "package_name": "com.geometric.xelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376746806651-3c1dp14nspvr7ops26rhn74nt2cr0af7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3wkiVreVF8rD2tZhDYCTERPnqGnVdACg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376746806651-3c1dp14nspvr7ops26rhn74nt2cr0af7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mini Project</string>
+    <string name="minpass">Min 6 digits</string>
+</resources>
